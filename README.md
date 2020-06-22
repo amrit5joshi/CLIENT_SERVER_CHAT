@@ -1,9 +1,6 @@
-# CLIENT_SERVER_CHAT
-MULTI CLIENT CHATTING AND FILE TRANSFER
-
-Description : This is a Multi-feature Chat Application developed in Java
-language using Netbeans
-Features :
+# CLIENT_SERVER_CHAT ✔
+# Description : This is a Multi-feature Chat Application developed in Java language using Netbeans
+# Features :
 * Simple text chatting - allows usual text sharing between two
 or more clients
 * Multi Chat App - mutliple clients can chat using one Centaralised
@@ -14,17 +11,22 @@ Images,Audio,Videos , and all other types )
 
 
 
-Environmental deployment
- OS: Microsoft Windows 10
- IDE: Apache NetBean 11
-Some of the packages used :
+# Environmental deployment
+
+OS: Microsoft Windows 10
+
+IDE: Apache NetBean 11
+
+# Some of the packages used :
+
 Swing package, awt.event: creating user interfaces
+
 Runnable package, Thread: Support for multi-process
+
 Java.io package: Offers classes in the data
-Demonstrations :
 
 
-Below is the home screen of the Server Application .
+# Demonstrations : Below is the home screen of the Server Application .
 
 ![image](https://user-images.githubusercontent.com/41183047/85321355-33a0b480-b4e2-11ea-8a36-7129517da2ad.png)
 
@@ -36,15 +38,12 @@ By clicking on the Online Users we can get a list of all connceted users.
 
 ![image](https://user-images.githubusercontent.com/41183047/85321544-7498c900-b4e2-11ea-84e6-155b1c98929c.png)
 
-
-
 Intermediate status seen on the Server that lets us know if any error exist
 
 ![image](https://user-images.githubusercontent.com/41183047/85321588-85493f00-b4e2-11ea-85b1-5b8dc235edf0.png)
 
-
 Here is the Home page of the Client Chat application where the user is required to Login to get
-connceted to the Network
+connected to the Network
 
 ![image](https://user-images.githubusercontent.com/41183047/85321636-9bef9600-b4e2-11ea-82f8-6b8a684525b2.png)
 
@@ -65,9 +64,9 @@ window .
 ![image](https://user-images.githubusercontent.com/41183047/85321811-ee30b700-b4e2-11ea-95ee-8d2320382b64.png)
 
 
-Also there is a seperat Status box for displaying Status and error codes in a seperate Box.
+Also there is a seperate Status box for displaying Status and error codes in a seperate Box.
 
 ![image](https://user-images.githubusercontent.com/41183047/85321863-043e7780-b4e3-11ea-94ec-4d29687072c8.png)
 
 
-Finally if a user wants to disconnect , they can click on the Dissconnect button to Connect .
+Finally if a user wants to disconnect , he/she can click on the Dissconnect button to disconnect✌✌✌ . 
