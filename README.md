@@ -3,11 +3,11 @@
 # Features :
 * Simple text chatting - allows usual text sharing between two
 or more clients
-* Multi Chat App - mutliple clients can chat using one Centaralised
-Server that clients can enjoy Group Chatting
+* Multi Chat App - Mutliple clients can chat using one Centralised
+Server so that clients can enjoy Group Chatting
 ( Multithreaded)
 * File Sharing Supported (All types of files can be shared viz.
-Images,Audio,Videos , and all other types )
+Images,Audio,Videos, and all other types )
 
 
 
@@ -34,7 +34,7 @@ For initialsing the server the user is requried to Click on the Start Button .
 
 ![image](https://user-images.githubusercontent.com/41183047/85321477-559a3700-b4e2-11ea-84fa-e722cbcebb5c.png)
 
-By clicking on the Online Users we can get a list of all connceted users.
+By clicking on the Online Users we can get a list of all connected users.
 
 ![image](https://user-images.githubusercontent.com/41183047/85321544-7498c900-b4e2-11ea-84e6-155b1c98929c.png)
 
@@ -47,7 +47,7 @@ connected to the Network
 
 ![image](https://user-images.githubusercontent.com/41183047/85321636-9bef9600-b4e2-11ea-82f8-6b8a684525b2.png)
 
-The file chooser option drop down function allows to choose veriety of file types.
+The file chooser option drop down function allows to choose variety of file types.
 
 ![image](https://user-images.githubusercontent.com/41183047/85321685-b3c71a00-b4e2-11ea-8505-3e23a17e1bf1.png)
 
