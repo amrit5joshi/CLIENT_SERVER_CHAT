@@ -30,11 +30,11 @@ Java.io package: Offers classes in the data
 
 ![image](https://user-images.githubusercontent.com/41183047/85321355-33a0b480-b4e2-11ea-8a36-7129517da2ad.png)
 
-For initialsing the server the user is requried to Click on the Start Button .
+For initializing the server the user is requried to Click on the Start Button .
 
 ![image](https://user-images.githubusercontent.com/41183047/85321477-559a3700-b4e2-11ea-84fa-e722cbcebb5c.png)
 
-By clicking on the Online Users we can get a list of all connected users.
+By clicking on the Online Users, we can get a list of all connected users.
 
 ![image](https://user-images.githubusercontent.com/41183047/85321544-7498c900-b4e2-11ea-84e6-155b1c98929c.png)
 
